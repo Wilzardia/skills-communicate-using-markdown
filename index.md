@@ -3,3 +3,7 @@
 
 ###### ini adalah gambar
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var Tes = "Hello World!!";
+```
