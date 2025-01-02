@@ -7,3 +7,8 @@
 ``` javascript
 var Tes = "Hello World!!";
 ```
+
+### Task List
+- [x] Belajar ngoding
+- [x] Baca Novel
+- [] Main Game
